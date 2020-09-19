@@ -20,9 +20,7 @@ export default function Profile() {
                 </a>
               </Button>
               <Button>
-                <a>
                   <i className="fa fa-user"></i>CV
-                </a>
               </Button>
             </div>
             <div id="preview-shadow">

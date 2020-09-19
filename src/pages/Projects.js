@@ -26,9 +26,7 @@ export default function Projects() {
                     </a>
                   </button>
                   <button>
-                    <a href="#">
                       <i className="fa fa-globe"></i>Website
-                    </a>
                   </button>
                 </div>
               </div>
@@ -36,7 +34,7 @@ export default function Projects() {
 
             <div>
               <div className="post">
-                <img className="thumbnail" src={ecom} />
+                <img className="thumbnail" src={ecom} alt="ecom" />
                 <div className="post-preview">
                   <h6 className="post-title">Project 2 /</h6>
                   <p className="post-intro">
@@ -49,9 +47,7 @@ export default function Projects() {
                     </a>
                   </button>
                   <button>
-                    <a href="#">
                       <i className="fa fa-globe"></i>Website
-                    </a>
                   </button>
                 </div>
               </div>
@@ -59,7 +55,7 @@ export default function Projects() {
 
             <div>
               <div className="post">
-                <img className="thumbnail" src={customer} />
+                <img className="thumbnail" src={customer} alt="customer" />
                 <div className="post-preview">
                   <h6 className="post-title">Project 3 / </h6>
                   <p className="post-intro">
@@ -67,14 +63,12 @@ export default function Projects() {
                     Dolor, odit?
                   </p>
                   <button>
-                    <a href="#">
+                    <a href="github.com/jjaymanalaysay">
                       <i className="fab fa-github"></i>Github
                     </a>
                   </button>
                   <button>
-                    <a href="https://github.com/jjaymanalaysay">
                       <i className="fa fa-globe"></i>Website
-                    </a>
                   </button>
                 </div>
               </div>

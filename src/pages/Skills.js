@@ -1,5 +1,4 @@
 import React from 'react'
-import { Jumbotron } from 'react-bootstrap'
 import ListGroup from 'react-bootstrap/ListGroup'
 
 export default function Skills() {
@@ -37,8 +36,8 @@ export default function Skills() {
                     <hr/>
                 <div>
                     <p>Check my Projects at:</p>
-                    <button><a href="#"><i class="fab fa-github"></i>Github</a></button>
-                    <button><a href="#"><i class="fab fa-gitlab"></i>Gitlab</a></button>
+                    <button><a href="github.com/jjaymanalaysay"><i class="fab fa-github"></i>Github</a></button>
+                    <button><a href="gitlab.com/jjaymanalaysay"><i class="fab fa-gitlab"></i>Gitlab</a></button>
                 </div>
             </div>
         </div>

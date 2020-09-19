@@ -10,7 +10,6 @@ import Skills from './pages/Skills'
 import Contact from './pages/Contact'
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
-import { Container } from 'react-bootstrap'
 
 function App() {
   
@@ -18,7 +17,6 @@ function App() {
     <>
       <Router>
           <AppNavbar />
-          <Container>
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/profile" component={Profile} />
@@ -26,7 +24,6 @@ function App() {
             <Route path="/skills" component={Skills} />
             <Route path="/contact" component={Contact} />
           </Switch>
-          </Container>
       </Router>
     </>
   );

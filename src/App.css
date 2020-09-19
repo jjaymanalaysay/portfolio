@@ -224,7 +224,7 @@ h6 { font-size: 1rem;}
 	-moz-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
 	box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
 
-	padding: 1rem 0rem;
+	padding: 0.5rem 0rem;
 	min-height: 100vh;
 	align-content: center;
 	justify-content: center;
@@ -281,8 +281,8 @@ h6 { font-size: 1rem;}
 
 
 .left-column{
-	padding: 3rem 2rem;
-	margin: 3rem 2rem 0;
+	padding: 2rem 1rem;
+	margin: 2rem 1rem 0;
 }
 
 
